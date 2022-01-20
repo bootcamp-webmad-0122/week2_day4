@@ -1,0 +1,1 @@
+dynamicApp.init()

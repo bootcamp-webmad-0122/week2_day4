@@ -1,0 +1,8 @@
+drawingApp.init()
+// drawingApp.drawFilledRectangle()
+// drawingApp.drawLinearRectangle()
+// drawingApp.drawRegularLines()
+// drawingApp.drawDashedLines()
+// drawingApp.drawArc()
+// drawingApp.drawText('Hello Ironhackers!')
+drawingApp.insertImage('ball.png')
